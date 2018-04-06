@@ -21,5 +21,4 @@ npm run watch
 npm run server
 6、手机下载调试器app
 https://statres.quickapp.cn/quickapp/quickapp/201803/file/quickapp_debugger.apk
-
 7、打开调试器，扫码安装
